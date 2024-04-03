@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Weatherio</h1>
 
-<p align="center"><img src="https://github.com/Dhruvabhat24/WeatherApplication/weather.png?raw=true" alt="project-image"></p>
+![Header Image- Weather Application](weather.png)
 
 <p id="description">It is a weather application named "Weatherio"</p>
 
